@@ -1,6 +1,8 @@
 ECE281_CE1
 ==========
 
+NOTE: Although the pictures do not initially show up, they will if the 'error' image is clicked on.
+
 I'M DONE! WOOOO!
 
 Truth Table Made For Section V step 1:
